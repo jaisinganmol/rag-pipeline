@@ -1,0 +1,17 @@
+# Core Dependencies
+python-dotenv==1.0.0
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-chroma==0.1.4
+langchain-core==0.3.28
+langchain-text-splitters==0.3.4
+
+# Vector Store
+chromadb==0.5.23
+
+# OpenAI
+openai==1.59.5
+
+# Additional utilities
+tiktoken==0.8.0
+pydantic==2.10.5
